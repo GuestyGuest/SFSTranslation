@@ -3,37 +3,37 @@
     Font=normal
 
 [General]
-    Enter=Enter
-    Cancel=Cancel
-    Close=Close
+    Enter=Entr
+    Cancel=Cancl
+    Close=fuck yall
 
-    Open_Settings_Button=Settings
-    Open_Cheats_Button=Cheats
-    Help=Help
+    Open_Settings_Button=Settng
+    Open_Cheats_Button=Cheaat no virus punjabi 2921!!1
+    Help=Hlep
 
-    Build_Rocket=Build Rocket
-    Resume_Game=Resume Game
-    Return_To_Main_Menu=Main Menu
-    Exit_To_Main_Menu=Exit To Main Menu
+    Build_Rocket=Build Rockit
+    Resume_Game=Resueme Gaem
+    Return_To_Main_Menu=main menuyal
+    Exit_To_Main_Menu=Exit to shit
 
 [Main Menu]
-    Play=Play
+    Play=Plae
 
 # Tutorial
-    Video_Tutorials_OpenButton=Video Tutorials
-    Video_Orbit=Orbit Tutorial
-    Video_Moon=Moon Tutorial
-    Video_Dock=Docking Tutorial
+    Video_Tutorials_OpenButton=Video Tutorells
+    Video_Orbit=Orbit Tutorieiial
+    Video_Moon=Moon Tutorikdwpal
+    Video_Dock=Docking Tutoieierial
 
 # Community
-    Community_OpenButton=Community
-    Community_Youtube=Youtube
-    Community_Discord=Discord
-    Community_Reddit=Reddit
-    Community_Forums=Forums
+    Community_OpenButton=Communidoty
+    Community_Youtube=Youtubo4e
+    Community_Discord=Disdicord
+    Community_Reddit=Reddilft
+    Community_Forums=Forumüws
 
 # Credits
-    Credits_OpenButton=Credits
+    Credits_OpenButton=Credioets
 
     Credits_Text=Štefo Mai Morojna
     Credits_Text=<Size=55> Designer - Programmer - Artist </size>
@@ -60,44 +60,43 @@
     Credits_Text=<size=55> Composer </size>
 
 # Update menu
-    Update_Available=A new update is available!
+    Update_Available=A new update is avai8e8epeolable!
     Update_Available=
     Update_Available=Current version: %old%
     Update_Available=Latest version: %new%
 
     Update_Confirm=Update
-    Update_Overview_Video_Available=Check out what's new this update?
-    Update_Overview_Video_Confirm=Open
+    Update_Overview_Video_Available=Check out whatupdate? No
+    Update_Overview_Video_Confirm=Openplsno
 
-# Rate menu
-    Rate_Title=Would you like to rate or review the game?
-    Rate_Title=
-    Rate_Title=We deeply care about the quality of our game, your feedback helps us improve it
-    Rate_Title=
-    Rate_Title=Even after thousands of reviews, we still read a large number of them!
 
-    Rate_Confirm=Rate
+    Rate_Title=rate 1
+    Rate_Title=We deeply care about the quality of our game, your feedbak never helps
+    Rate_Title=
+    Rate_Title=Even after thousands of reviews, we still read none
+
+    Rate_Confirm=donot
 
 # Close menu
-    Exit_Button=Exit
-    Close_Game=Close game?
+    Exit_Button=go
+    Close_Game=gtfo
 
 [Worlds Menu]
-    Create_New_World_Button=Create New World
-    World_Delete=Delete world?
+    Create_New_World_Button=Create New wrold
+    World_Delete=Delet this shit
 
 # Create menu
-    Create_World_Title=World Name
-    Default_World_Name=My World
-    Select_Solar_System=Select world's solar system
+    Create_World_Title=Worl shit
+    Default_World_Name=My shit
+    Select_Solar_System=Select world's sol systemm
 
-    Select_Solar_System__NotFound=Solar system could not be found:
+    Select_Solar_System__NotFound=Solar system could not be found: augh
     Select_Solar_System__NotFound=%system%
     Select_Solar_System__NotFound=
-    Select_Solar_System__NotFound=Select a new solar system
+    Select_Solar_System__NotFound=Select a new solar Sssssser
 
-    Default_Solar_System=Solar System (Default)
-    Custom_Solar_System=%name% (Custom)
+    Default_Solar_System=Solar System de faltt)
+    Custom_Solar_System=%name% (Cussm)
 
 # World info
     Last_Played=Last played: %value% ago
@@ -105,14 +104,14 @@
     Time_Played=Playtime: %value%
 
     World_Difficulty_Name=Difficulty: %value%
-    Difficulty_Normal=Normal
-    Difficulty_Hard=Hard
-    Difficulty_Realistic=Realistic
+    Difficulty_Normal=Norml
+    Difficulty_Hard=ard
+    Difficulty_Realistic=hell
 
     World_Mode_Name=Mode: %value%
-    Mode_Classic=Classic
-    Mode_Career=Career
-    Mode_Sandbox=Sandbox
+    Mode_Classic=Clasic
+    Mode_Career=Carer
+    Mode_Sandbox=Sandboks
 
 [World Create Menu]
     World_Create_Title=Create World
@@ -141,17 +140,17 @@
     Load_Quicksave=Load Quicksave
 
 # Save and load menus
-    Save=Save
-    Load=Load
-    Import=Import
-    Delete=Delete
-    Rename=Rename
+    Save=Saev
+    Load=Laod
+    Import=Improt
+    Delete=Delet
+    Rename=Renameä
     Delete_File_With_Type=Delete %filename% %filetype{1}%
 
 # In progress
-    Saving_In_Progress=Saving...
-    Loading_In_Progress=Loading...
-    Importing_In_Progress=Importing...
+    Saving_In_Progress=Savi...
+    Loading_In_Progress=Load...
+    Importing_In_Progress=Import..
 
 # filetype (injected)
     Blueprint{0}=Blueprint
@@ -170,7 +169,7 @@
     Load_Failed=Could not load %filetype{1}% from %filepath%
 
 [Purchasing]
-    Open_Shop_Menu=Expansions
+    Open_Shop_Menu=hax!!1
     Parts_Expansion=Parts Expansion
     Redstone_Atlas_Pack=Redstone Atlas Pack
     Skins_Expansion=Skins Expansion
@@ -211,7 +210,7 @@
 
     Owned=%product% (Owned)
 
-    Restore_Open=Restore
+    Restore_Open=no free
 
     Manual_Activation=Manual activation can be used when a purchase is lost
     Manual_Activation=
